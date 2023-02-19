@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Saša, a knowledge hungry frontend developer based in Subotica, Serbia.</div>  
+### I'm Saša, a knowledge hungry frontend developer based in Subotica, Serbia.  
   
 
-- 🌱 I’m currently learning advanced level React. Also, I am working on improving my CSS and TypeScript knowledge as much as possible.  
+🌱 I’m currently learning advanced level React. Also, I am working on improving my CSS and TypeScript knowledge as much as possible.  
   
 
-- ❓ Ask me about anything related to React.js and JavaScript and I will do my best to help you If I can.  
+❓ Ask me about anything related to React.js and JavaScript and I will do my best to help you If I can.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
@@ -53,11 +53,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
 <br />
 
 ----
