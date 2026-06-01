@@ -11,7 +11,7 @@
 
 - ❓ Ask me about anything related to Frontend or Backend, always happy to chat.
 
-- sasabakic.dev
+- 🔗 [sasabakic.dev](https://sasabakic.dev)
   
 
 <br/>  
