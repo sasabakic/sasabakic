@@ -3,10 +3,10 @@
 </div>  
   
 
-- I'm Saša, a Frontend Engineer based in Subotica, Serbia.  
+- I'm Saša, a Fullstack Engineer based in Subotica, Serbia.  
   
 
-- 🌱 I’m currently focused on **advanced Frontend Engineering** and expanding into **Backend** to evolve into a **Full Stack Engineer**.  
+- 🌱 I’m currently focused on **advanced Frontend Engineering** and expanding **Backend and Systems knowledge**.  
   
 
 - ❓ Ask me about anything related to Frontend or Backend, always happy to chat.
